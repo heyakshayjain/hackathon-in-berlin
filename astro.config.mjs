@@ -14,6 +14,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Best SUVs in 2025', link: '/best-suv-in-2025/' },
 					],
 				},
 				{
